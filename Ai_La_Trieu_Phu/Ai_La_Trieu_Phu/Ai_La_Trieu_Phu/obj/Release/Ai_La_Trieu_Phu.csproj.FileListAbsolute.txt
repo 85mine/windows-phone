@@ -1,0 +1,6 @@
+C:\Users\anh_p_000\Dropbox\B-Gate\Ai_La_Trieu_Phu\Ai_La_Trieu_Phu\Ai_La_Trieu_Phu\obj\Release\Ai_La_Trieu_Phu.csprojResolveAssemblyReference.cache
+C:\Users\anh_p_000\Dropbox\B-Gate\Ai_La_Trieu_Phu\Ai_La_Trieu_Phu\Ai_La_Trieu_Phu\obj\Release\App.g.cs
+C:\Users\anh_p_000\Dropbox\B-Gate\Ai_La_Trieu_Phu\Ai_La_Trieu_Phu\Ai_La_Trieu_Phu\obj\Release\MainPage.g.cs
+C:\Users\anh_p_000\Dropbox\B-Gate\Ai_La_Trieu_Phu\Ai_La_Trieu_Phu\Ai_La_Trieu_Phu\obj\Release\View\PlayPage.g.cs
+C:\Users\anh_p_000\Dropbox\B-Gate\Ai_La_Trieu_Phu\Ai_La_Trieu_Phu\Ai_La_Trieu_Phu\obj\Release\Ai_La_Trieu_Phu.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\Ai_La_Trieu_Phu\Ai_La_Trieu_Phu\Ai_La_Trieu_Phu\obj\Release\Ai_La_Trieu_Phu.pdb

@@ -1,0 +1,44 @@
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Help1.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Menu.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Move.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Return.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Ball.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Color\Blue.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Color\Green.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Color\None.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Color\Red.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Color\Violet.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Color\Yellow.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Color\Blue1.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Color\Green1.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Color\Red1.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Color\Violet1.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Color\Yellow1.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\LogoGame.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\game_over.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\try.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\comingsoon.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Help.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\menuLarge.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\PlayFont.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\ScoreFont.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Gameover.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\canmovesound.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\destroysound.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\7x7 Game.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\7x7 Game.pdb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\obj\Windows Phone\Release\7x7 Game.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\obj\Windows Phone\Release\7x7 Game.pdb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\AppManifest.xaml
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\obj\Windows Phone\Release\WMAppManifest.xml.g
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\obj\Windows Phone\Release\WMAppManifest.xml
+bin\Windows Phone\Release\
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\7x7 Game.xap
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\obj\Windows Phone\Release\XapCacheFile.xml
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\7x7 Game.xap
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\obj\Windows Phone\Release\XapCacheFile.xml
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\AppManifest.xaml
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\obj\Windows Phone\Release\WMAppManifest.xml.g
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\obj\Windows Phone\Release\WMAppManifest.xml
+bin\Windows Phone\Release\

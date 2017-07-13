@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Help1.png</Source>
+      <Name>Help1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Help1.xnb</Output>
+      <Time>2013-09-05T03:08:16+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu.png</Source>
+      <Name>Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Menu.xnb</Output>
+      <Time>2013-09-04T17:05:51+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Move.png</Source>
+      <Name>Move</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Move.xnb</Output>
+      <Time>2013-08-13T01:45:39+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Return.png</Source>
+      <Name>Return</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Return.xnb</Output>
+      <Time>2013-08-13T01:45:39+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Ball.png</Source>
+      <Name>Ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Ball.xnb</Output>
+      <Time>2013-08-17T01:22:19+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Color\Blue.png</Source>
+      <Name>Color\Blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Color\Blue.xnb</Output>
+      <Time>2013-08-18T13:13:34+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Color\Green.png</Source>
+      <Name>Color\Green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Color\Green.xnb</Output>
+      <Time>2013-08-18T13:13:34+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Color\None.png</Source>
+      <Name>Color\None</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Color\None.xnb</Output>
+      <Time>2013-08-18T13:13:34+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Color\Red.png</Source>
+      <Name>Color\Red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Color\Red.xnb</Output>
+      <Time>2013-08-18T13:13:34+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Color\Violet.png</Source>
+      <Name>Color\Violet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Color\Violet.xnb</Output>
+      <Time>2013-08-18T13:13:34+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Color\Yellow.png</Source>
+      <Name>Color\Yellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Color\Yellow.xnb</Output>
+      <Time>2013-08-18T13:13:34+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Color\Blue1.png</Source>
+      <Name>Color\Blue1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Color\Blue1.xnb</Output>
+      <Time>2013-08-24T01:04:54+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Color\Green1.png</Source>
+      <Name>Color\Green1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Color\Green1.xnb</Output>
+      <Time>2013-08-24T01:04:54+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Color\Red1.png</Source>
+      <Name>Color\Red1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Color\Red1.xnb</Output>
+      <Time>2013-08-24T01:04:54+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Color\Violet1.png</Source>
+      <Name>Color\Violet1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Color\Violet1.xnb</Output>
+      <Time>2013-08-24T01:04:54+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Color\Yellow1.png</Source>
+      <Name>Color\Yellow1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Color\Yellow1.xnb</Output>
+      <Time>2013-08-24T01:04:54+07:00</Time>
+    </Item>
+    <Item>
+      <Source>LogoGame.png</Source>
+      <Name>LogoGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\LogoGame.xnb</Output>
+      <Time>2013-09-20T19:48:10+07:00</Time>
+    </Item>
+    <Item>
+      <Source>game_over.png</Source>
+      <Name>game_over</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\game_over.xnb</Output>
+      <Time>2013-08-30T17:51:10+07:00</Time>
+    </Item>
+    <Item>
+      <Source>try.png</Source>
+      <Name>try</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\try.xnb</Output>
+      <Time>2013-08-30T18:08:24+07:00</Time>
+    </Item>
+    <Item>
+      <Source>comingsoon.png</Source>
+      <Name>comingsoon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\comingsoon.xnb</Output>
+      <Time>2013-08-31T03:06:07+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Help.png</Source>
+      <Name>Help</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Help.xnb</Output>
+      <Time>2013-09-03T02:00:05+07:00</Time>
+    </Item>
+    <Item>
+      <Source>menuLarge.spritefont</Source>
+      <Name>menuLarge</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\menuLarge.xnb</Output>
+      <Time>2013-09-05T03:18:35+07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayFont.spritefont</Source>
+      <Name>PlayFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\PlayFont.xnb</Output>
+      <Time>2013-09-05T03:21:12+07:00</Time>
+    </Item>
+    <Item>
+      <Source>ScoreFont.spritefont</Source>
+      <Name>ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\ScoreFont.xnb</Output>
+      <Time>2013-09-05T02:46:36+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Gameover.spritefont</Source>
+      <Name>Gameover</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\Gameover.xnb</Output>
+      <Time>2013-09-05T02:50:55+07:00</Time>
+    </Item>
+    <Item>
+      <Source>canmovesound.wav</Source>
+      <Name>canmovesound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\canmovesound.xnb</Output>
+      <Time>2013-09-04T14:02:03+07:00</Time>
+    </Item>
+    <Item>
+      <Source>destroysound.wav</Source>
+      <Name>destroysound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\destroysound.xnb</Output>
+      <Time>2013-09-04T14:09:52+07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{31F3C1F9-066B-4284-BC76-153053A0926C}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 GameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\obj\Windows Phone\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-08T11:22:33.8528492+07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

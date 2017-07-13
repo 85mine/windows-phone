@@ -1,0 +1,45 @@
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\7x7 Game.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\7x7 Game.pdb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\obj\Windows Phone\Debug\7x7 Game.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\obj\Windows Phone\Debug\7x7 Game.pdb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\7x7 Game.xap
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\Menu.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\menuLarge.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\Move.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\Return.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\Ball.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\Color\Blue.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\Color\Green.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\Color\None.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\Color\Red.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\Color\Violet.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\Color\Yellow.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\obj\Windows Phone\Debug\7x7 Game.csprojResolveAssemblyReference.cache
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\Color\Blue1.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\Color\Green1.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\Color\Red1.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\Color\Violet1.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\Color\Yellow1.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\LogoGame.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\PlayFont.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\ScoreFont.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\Gameover.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\game_over.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\try.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\comingsoon.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\Help.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\Help1.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\canmovesound.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\Content\destroysound.xnb
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\7x7 Game.xap
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\anh_p_000\Dropbox\B-Gate\7x7 Game\7x7 Game\7x7 Game\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\

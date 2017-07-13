@@ -1,0 +1,331 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:System="clr-namespace:System;assembly=mscorlib"
+    xmlns:Controls="clr-namespace:Coding4Fun.Toolkit.Controls;assembly=Coding4Fun.Toolkit.Controls"
+    xmlns:c4fToolkit="clr-namespace:Coding4Fun.Toolkit.Controls;assembly=Coding4Fun.Toolkit.Controls"
+    xmlns:AMobiSDK="clr-namespace:AMobiSDK;assembly=AMobiSDK"
+    x:Class="Ai_La_Trieu_Phu.View.PlayPage"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True" Loaded="PhoneApplicationPage_Loaded_1" TabNavigation="Once">
+    <phone:PhoneApplicationPage.Resources>
+        <Storyboard x:Name="Storyboard_dongho" AutoReverse="True" RepeatBehavior="Forever">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="dh2">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.1" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="dh3">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="dh4">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="dh5">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="dh6">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimation Duration="0:0:0.5" To="0" Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="dh1" d:IsOptimized="True"/>
+        </Storyboard>
+        <Storyboard x:Name="Storyboard_moccauhoi" AutoReverse="False">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="line1">
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4.3" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="line2">
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4.3" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4.6" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="line3">
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4.6" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4.9" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="line4">
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4.9" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:5.2" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="line5">
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:5.2" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:5.5" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="line6">
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:5.5" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:5.8" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="line7">
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:5.8" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:6.1" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="line8">
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:6.1" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:6.4" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="line9">
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:6.4" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:6.7" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="line10">
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:6.7" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:7" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="line11">
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:7" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:7.3" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="line12">
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:7.3" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:7.6" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="line13">
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:7.6" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:7.9" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="line14">
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:7.9" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:8.2" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="line15">
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:8.2" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:8.5" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+
+            <!--<DoubleAnimation Duration="0:0:8.2" To="0" Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="line15" d:IsOptimized="True"/>-->
+        </Storyboard>
+
+        <Storyboard x:Name="Storyboard_trogiup" AutoReverse="False">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="nammuoi_nammuoi2">
+                <EasingDoubleKeyFrame KeyTime="0:0:8.5" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:10" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="goidien2">
+                <EasingDoubleKeyFrame KeyTime="0:0:10" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:11.5" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="hoikhangia2">
+                <EasingDoubleKeyFrame KeyTime="0:0:11.5" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:13" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="back2">
+                <EasingDoubleKeyFrame KeyTime="0:0:13" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:14" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <!--<DoubleAnimation Duration="0:0:12.5" To="1" Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="back2" d:IsOptimized="True"/>-->
+        </Storyboard>
+        <Storyboard x:Name="Storyboard_dapanA" AutoReverse="True">
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="dapan_A2">
+                <DiscreteObjectKeyFrame KeyTime="0">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Visible</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.2">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Collapsed</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.4">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Visible</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.6">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Collapsed</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+            </ObjectAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Name="Storyboard_dapanB" AutoReverse="True">
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="dapan_B2">
+                <DiscreteObjectKeyFrame KeyTime="0">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Visible</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.2">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Collapsed</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.4">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Visible</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.6">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Collapsed</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+            </ObjectAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Name="Storyboard_dapanC" AutoReverse="True">
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="dapan_C2">
+                <DiscreteObjectKeyFrame KeyTime="0">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Visible</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.2">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Collapsed</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.4">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Visible</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.6">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Collapsed</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+            </ObjectAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Name="Storyboard_dapanD" AutoReverse="True">
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="dapan_D2">
+                <DiscreteObjectKeyFrame KeyTime="0">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Visible</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.2">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Collapsed</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.4">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Visible</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.6">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Collapsed</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+            </ObjectAnimationUsingKeyFrames>
+        </Storyboard>
+    </phone:PhoneApplicationPage.Resources>
+
+    <phone:PhoneApplicationPage.FontFamily>
+        <StaticResource ResourceKey="PhoneFontFamilyNormal"/>
+    </phone:PhoneApplicationPage.FontFamily>
+    <phone:PhoneApplicationPage.FontSize>
+        <StaticResource ResourceKey="PhoneFontSizeNormal"/>
+    </phone:PhoneApplicationPage.FontSize>
+    <phone:PhoneApplicationPage.Foreground>
+        <StaticResource ResourceKey="PhoneForegroundBrush"/>
+    </phone:PhoneApplicationPage.Foreground>
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="{StaticResource ResourceKey=PlayPage}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="14,48,10,0" >
+            <Image x:Name="dh1" HorizontalAlignment="Left" Height="100" Margin="179,-16,0,0" VerticalAlignment="Top" Width="100" Source="/Images/dong_ho_to_1.png" />
+            <Image x:Name="dh2" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Margin="179,-16,0,0" Source="/Images/dong_ho_to_2.png"/>
+            <Image x:Name="dh3" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Margin="179,-16,0,0" Source="/Images/dong_ho_to_3.png"/>
+            <Image x:Name="dh4" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Margin="179,-16,0,0" Source="/Images/dong_ho_to_4.png"/>
+            <Image x:Name="dh5" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Margin="179,-16,0,0" Source="/Images/dong_ho_to_5.png"/>
+            <Image x:Name="dh6" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Margin="179,-16,0,0" Source="/Images/dong_ho_to_6.png"/>
+            <Image x:Name="goidien1" HorizontalAlignment="Left" Height="55" Margin="91,15,0,0" VerticalAlignment="Top" Width="81" Source="/Images/goi_dien_bt_to.png" MouseEnter="goidien1_MouseEnter_1"/>
+            <Image x:Name="goidien2" HorizontalAlignment="Left" Height="55" Margin="91,15,0,0" VerticalAlignment="Top" Width="81" Source="/Images/goi_dien_chon_to_1.png" Opacity="0" IsHitTestVisible="False"/>
+            <Image x:Name="goidien3" HorizontalAlignment="Left" Height="55" Margin="91,15,0,0" VerticalAlignment="Top" Width="81" Source="/Images/goi_dien_da_dung_to_2.png" Opacity="0" IsHitTestVisible="False"/>
+            <Image x:Name="nammuoi_nammuoi1" HorizontalAlignment="Left" Height="69" Margin="10,20,0,0" VerticalAlignment="Top" Width="83" Source="/Images/chon5050to.png" RenderTransformOrigin="0.488,0.841" Opacity="1" MouseEnter="nammuoi_nammuoi1_MouseEnter_1"/>
+            <Image x:Name="nammuoi_nammuoi2" HorizontalAlignment="Left" Height="69" Margin="10,20,0,0" VerticalAlignment="Top" Width="83" Source="/Images/chon5050to1.png" RenderTransformOrigin="0.488,0.841" Opacity="0" IsHitTestVisible="False"/>
+            <Image x:Name="nammuoi_nammuoi3" HorizontalAlignment="Left" Height="69" Margin="10,20,0,0" VerticalAlignment="Top" Width="83" Source="/Images/chon5050to2.png" RenderTransformOrigin="0.488,0.841" Opacity="0" IsHitTestVisible="False"/>
+            <Image x:Name="hoikhangia1" HorizontalAlignment="Left" Height="69" Margin="298,10,0,0" VerticalAlignment="Top" Width="70" Source="/Images/hoi_y_kien_bt_to.png" Opacity="1" MouseEnter="hoikhangia1_MouseEnter_1" />
+            <Image x:Name="hoikhangia2" HorizontalAlignment="Left" Height="69" Margin="298,10,0,0" VerticalAlignment="Top" Width="70" Source="/Images/hoi_y_kien_chon_chon_to1.png" Opacity="0" IsHitTestVisible="False"/>
+            <Image x:Name="hoikhangia3" HorizontalAlignment="Left" Height="69" Margin="298,10,0,0" VerticalAlignment="Top" Width="70" Source="/Images/hoi_y_kien_da_dung_to_2.png" Opacity="0" IsHitTestVisible="False"/>
+            <Image x:Name="back1" HorizontalAlignment="Left" Height="69" Margin="373,10,0,0" VerticalAlignment="Top" Width="69" RenderTransformOrigin="-0.109,0.232" Source="/Images/doi_cau_hoi_binh_thuongto.png" Opacity="1" MouseEnter="back1_MouseEnter_1"/>
+            <Image x:Name="back2" HorizontalAlignment="Left" Height="69" Margin="373,10,0,0" VerticalAlignment="Top" Width="69" RenderTransformOrigin="-0.109,0.232" Source="/Images/doi_cau_hoi_chon_to_1.png" Opacity="0" IsHitTestVisible="False"/>
+            <Image x:Name="back3" HorizontalAlignment="Left" Height="69" Margin="373,10,0,0" VerticalAlignment="Top" Width="69" RenderTransformOrigin="-0.109,0.232" Source="/Images/doi_cau_hoi_da_dung_to2.png" Opacity="0" IsHitTestVisible="False"/>
+            <Image x:Name="dapan_A" HorizontalAlignment="Left" Height="107" VerticalAlignment="Top" Width="229" Margin="10,469,0,0" Source="/Images/traloi.png" Stretch="Fill" RenderTransformOrigin="0.952,0.537"/>
+            <Image x:Name="dapan_B" HorizontalAlignment="Left" Height="107" Margin="222,469,0,0" VerticalAlignment="Top" Width="220" Source="/Images/traloi.png" Stretch="Fill"/>
+            <Image x:Name="dapan_C" HorizontalAlignment="Left" Height="108" Margin="10,600,0,0" VerticalAlignment="Top" Width="207" Source="/Images/traloi.png" Stretch="Fill"/>
+            <Image x:Name="dapan_D" HorizontalAlignment="Left" Height="108" VerticalAlignment="Top" Width="202" Margin="240,600,0,0" Source="/Images/traloi.png" Stretch="Fill"/>
+            <Image x:Name="dapan_A2" HorizontalAlignment="Left" Height="107" VerticalAlignment="Top" Width="229" Margin="10,469,0,0" Source="/Images/traloi2.png" Stretch="Fill" RenderTransformOrigin="0.952,0.537" Visibility="Collapsed"/>
+            <Image x:Name="dapan_B2" HorizontalAlignment="Left" Height="107" Margin="222,469,0,0" VerticalAlignment="Top" Width="220" Source="/Images/traloi2.png" Stretch="Fill" Visibility="Collapsed"/>
+            <Image x:Name="dapan_C2" HorizontalAlignment="Left" Height="108" Margin="10,600,0,0" VerticalAlignment="Top" Width="207" Source="/Images/traloi2.png" Stretch="Fill" Visibility="Collapsed"/>
+            <Image x:Name="dapan_D2" HorizontalAlignment="Left" Height="108" VerticalAlignment="Top" Width="202" Margin="240,600,0,0" Source="/Images/traloi2.png" Stretch="Fill" Visibility="Collapsed"/>
+            <Image x:Name="bangcauhoi" HorizontalAlignment="Left" Height="178" Margin="35,268,0,0" VerticalAlignment="Top" Width="392" Source="/Images/bangcauhoi.png" Stretch="Fill"/>
+            <Image x:Name="moc1" HorizontalAlignment="Left" Height="27" Margin="35,89,0,0" VerticalAlignment="Top" Width="90" RenderTransformOrigin="0.6,2.37" Source="/Images/moc_1.png"/>
+            <Image x:Name="line1" HorizontalAlignment="Left" Height="27" Margin="35,89,0,0" VerticalAlignment="Top" Width="90" RenderTransformOrigin="0.6,2.37" Source="/Images/moc_1_to.png" Opacity="0"/>
+            <Image x:Name="moc2" HorizontalAlignment="Left" Height="27" Margin="35,121,0,0" VerticalAlignment="Top" Width="90" Source="/Images/moc_2.png"/>
+            <Image x:Name="line2" HorizontalAlignment="Left" Height="27" Margin="35,121,0,0" VerticalAlignment="Top" Width="90" Source="/Images/moc_2_to.png" Opacity="0"/>
+            <Image x:Name="moc3" HorizontalAlignment="Left" Height="28" Margin="35,153,0,0" VerticalAlignment="Top" Width="90" Source="/Images/moc_3.png"/>
+            <Image x:Name="line3" HorizontalAlignment="Left" Height="28" Margin="35,153,0,0" VerticalAlignment="Top" Width="90" Source="/Images/moc_3_to.png" Opacity="0"/>
+            <Image x:Name="moc4" HorizontalAlignment="Left" Height="30" Margin="35,186,0,0" VerticalAlignment="Top" Width="90" Source="/Images/moc_4.png"/>
+            <Image x:Name="line4" HorizontalAlignment="Left" Height="30" Margin="35,186,0,0" VerticalAlignment="Top" Width="90" Source="/Images/moc_4_to.png" Opacity="0"/>
+            <Image x:Name="moc5" HorizontalAlignment="Left" Height="32" Margin="35,216,0,0" VerticalAlignment="Top" Width="90" Source="/Images/moc_5.png"/>
+            <Image x:Name="moc6" HorizontalAlignment="Left" Height="33" Margin="179,89,0,0" VerticalAlignment="Top" Width="100" RenderTransformOrigin="0.115,0.212" Source="/Images/moc_6.png"/>
+            <Image x:Name="moc7" HorizontalAlignment="Left" Height="27" Margin="179,121,0,0" VerticalAlignment="Top" Width="100" Source="/Images/moc_7.png"/>
+            <Image x:Name="moc8" HorizontalAlignment="Left" Height="28" Margin="179,153,0,0" VerticalAlignment="Top" Width="100" Source="/Images/moc_8.png"/>
+            <Image x:Name="moc9" HorizontalAlignment="Left" Height="30" Margin="179,186,0,0" VerticalAlignment="Top" Width="100" Source="/Images/moc_9.png"/>
+            <Image x:Name="moc10" HorizontalAlignment="Left" Height="32" Margin="179,216,0,0" VerticalAlignment="Top" Width="100" Source="/Images/moc_10.png"/>
+            <Image x:Name="moc11" HorizontalAlignment="Left" Height="32" Margin="342,84,0,0" VerticalAlignment="Top" Width="100" Source="/Images/moc_11.png"/>
+            <Image x:Name="moc12" HorizontalAlignment="Left" Height="32" Margin="342,116,0,0" VerticalAlignment="Top" Width="100" Source="/Images/moc_12.png"/>
+            <Image x:Name="moc13" HorizontalAlignment="Left" Height="33" Margin="342,148,0,0" VerticalAlignment="Top" Width="100" Source="/Images/moc_13.png"/>
+            <Image x:Name="moc14" HorizontalAlignment="Left" Height="35" Margin="342,181,0,0" VerticalAlignment="Top" Width="100" Source="/Images/moc_14.png"/>
+            <Image x:Name="moc15" HorizontalAlignment="Left" Height="32" Margin="342,216,0,0" VerticalAlignment="Top" Width="100" RenderTransformOrigin="0.245,0.41" Source="/Images/moc_15.png"/>
+            <Image x:Name="line5" HorizontalAlignment="Left" Height="32" Margin="35,216,0,0" VerticalAlignment="Top" Width="90" Source="/Images/moc_5_to.png" Opacity="0"/>
+            <Image x:Name="line6" HorizontalAlignment="Left" Height="33" Margin="179,89,0,0" VerticalAlignment="Top" Width="100" RenderTransformOrigin="0.115,0.212" Source="/Images/moc_6_to.png" Opacity="0"/>
+            <Image x:Name="line7" HorizontalAlignment="Left" Height="27" Margin="179,121,0,0" VerticalAlignment="Top" Width="100" Source="/Images/moc_7_to.png" Opacity="0"/>
+            <Image x:Name="line8" HorizontalAlignment="Left" Height="28" Margin="179,153,0,0" VerticalAlignment="Top" Width="100" Source="/Images/moc_8_to.png" Opacity="0"/>
+            <Image x:Name="line9" HorizontalAlignment="Left" Height="30" Margin="179,186,0,0" VerticalAlignment="Top" Width="100" Source="/Images/moc_9_to.png" Opacity="0"/>
+            <Image x:Name="line10" HorizontalAlignment="Left" Height="32" Margin="179,216,0,0" VerticalAlignment="Top" Width="100" Source="/Images/moc_10_to.png" Opacity="0"/>
+            <Image x:Name="line11" HorizontalAlignment="Left" Height="32" Margin="342,84,0,0" VerticalAlignment="Top" Width="100" Source="/Images/moc_11_to.png" Opacity="0"/>
+            <Image x:Name="line12" HorizontalAlignment="Left" Height="32" Margin="342,116,0,0" VerticalAlignment="Top" Width="100" Source="/Images/moc_12_to.png" Opacity="0"/>
+            <Image x:Name="line13" HorizontalAlignment="Left" Height="33" Margin="342,148,0,0" VerticalAlignment="Top" Width="100" Source="/Images/moc_13_to.png" Opacity="0"/>
+            <Image x:Name="line14" HorizontalAlignment="Left" Height="35" Margin="342,181,0,0" VerticalAlignment="Top" Width="100" Source="/Images/moc_14_to.png" Opacity="0"/>
+            <Image x:Name="line15" HorizontalAlignment="Left" Height="32" Margin="342,216,0,0" VerticalAlignment="Top" Width="100" RenderTransformOrigin="0.245,0.41" Source="/Images/moc_15_to.png" Opacity="0"/>
+
+            <MediaElement x:Name="gioithieu" Source="loichao.wav" AutoPlay="False" Volume="1"/>
+            <MediaElement x:Name="batdau" Source="start_2.wav" AutoPlay="False" Volume="1"/>
+            <MediaElement x:Name="nhacnen" Source="nhacnen_1.wav" AutoPlay="False" Volume="1"/>
+            <TextBlock x:Name="tbl1" Foreground="White"  FontFamily="Arial"  TextAlignment="Center"  FontSize="24" TextWrapping="Wrap" Canvas.Top="30" Width="339" Margin="59,303,58,298" HorizontalAlignment="Center"/>
+            <TextBlock x:Name="daA" Foreground="White"  FontFamily="Arial" TextAlignment="Center" FontSize="20" HorizontalAlignment="Left" Margin="15,491,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="80" Width="202" MouseEnter="daA_MouseEnter_1" RenderTransformOrigin="0.507,0.493"/>
+            <TextBlock x:Name="daB" Foreground="White"  FontFamily="Arial" TextAlignment="Center" FontSize="20" HorizontalAlignment="Left" Margin="239,491,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="80" Width="203" MouseEnter="daB_MouseEnter_1"/>
+            <TextBlock x:Name="daC" Foreground="White"  FontFamily="Arial" TextAlignment="Center" FontSize="20" HorizontalAlignment="Left" Margin="10,626,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Height="80" Width="207" MouseEnter="daC_MouseEnter_1"/>
+            <TextBlock x:Name="daD" Foreground="White"  FontFamily="Arial" TextAlignment="Center" FontSize="20" HorizontalAlignment="Left" Margin="240,626,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="80" Width="202" MouseEnter="daD_MouseEnter_1"/>
+            <TextBlock x:Name="dongho" Foreground="White" FontFamily="Arial" TextAlignment="Center" FontSize="20" HorizontalAlignment="Left" Margin="201,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="31" Width="60" RenderTransformOrigin="0.85,0.609"/>
+        </Grid>
+    </Grid>
+</phone:PhoneApplicationPage>

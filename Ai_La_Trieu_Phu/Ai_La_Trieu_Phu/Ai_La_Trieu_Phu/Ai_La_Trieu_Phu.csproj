@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9060163F-8EE9-4EC7-96F3-FACECA9A9B61}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ai_La_Trieu_Phu</RootNamespace>
+    <AssemblyName>Ai_La_Trieu_Phu</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <TargetFrameworkProfile>WindowsPhone71</TargetFrameworkProfile>
+    <TargetFrameworkIdentifier>Silverlight</TargetFrameworkIdentifier>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>Ai_La_Trieu_Phu.xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>Ai_La_Trieu_Phu.App</SilverlightAppEntry>
+    <ValidateXaml>true</ValidateXaml>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Phone" />
+    <Reference Include="Microsoft.Phone.Interop" />
+    <Reference Include="Microsoft.Phone.Reactive" />
+    <Reference Include="Microsoft.Xna.Framework" />
+    <Reference Include="system.data.linq" />
+    <Reference Include="System.Device" />
+    <Reference Include="System.Observable" />
+    <Reference Include="System.Windows" />
+    <Reference Include="system" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Windows.Interactivity, Version=3.8.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml" />
+    <Reference Include="mscorlib.extensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Data\ALTP.cs" />
+    <Compile Include="Data\DatabaseItem.cs" />
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Model\ConnectDatabase.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\LoadQuestion.xaml.cs">
+      <DependentUpon>LoadQuestion.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\PlayPage.xaml.cs">
+      <DependentUpon>PlayPage.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\LoadQuestion.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\PlayPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\slash" />
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\WMAppManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ALTP.sdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ApplicationIcon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Background.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\background.png" />
+    <Content Include="Images\backgroundto.png" />
+    <Content Include="Images\bangcauhoi.png" />
+    <Content Include="Images\bangcauhoito.png" />
+    <Content Include="Images\bangngang.png" />
+    <Content Include="Images\bangtraloi.png" />
+    <Content Include="Images\batdauchon.png" />
+    <Content Include="Images\batdauchonto.png" />
+    <Content Include="Images\batdauchuachon.png" />
+    <Content Include="Images\batdauchuachonto.png" />
+    <Content Include="Images\caidatchon.png" />
+    <Content Include="Images\caidatchonto.png" />
+    <Content Include="Images\caidatchuachon.png" />
+    <Content Include="Images\caidatchuachonto.png" />
+    <Content Include="Images\cautraloito.png" />
+    <Content Include="Images\cautraloito2.png" />
+    <Content Include="Images\cautraloito3.png" />
+    <Content Include="Images\chon5050nho.png" />
+    <Content Include="Images\chon5050nho2.png" />
+    <Content Include="Images\chon5050nho3.png" />
+    <Content Include="Images\chon5050to.png" />
+    <Content Include="Images\chon5050to1.png" />
+    <Content Include="Images\chon5050to2.png" />
+    <Content Include="Images\chon_nho_1.png" />
+    <Content Include="Images\chon_nho_10.png" />
+    <Content Include="Images\chon_nho_11.png" />
+    <Content Include="Images\chon_nho_12.png" />
+    <Content Include="Images\chon_nho_13.png" />
+    <Content Include="Images\chon_nho_14.png" />
+    <Content Include="Images\chon_nho_15.png" />
+    <Content Include="Images\chon_nho_2.png" />
+    <Content Include="Images\chon_nho_3.png" />
+    <Content Include="Images\chon_nho_4.png" />
+    <Content Include="Images\chon_nho_5.png" />
+    <Content Include="Images\chon_nho_6.png" />
+    <Content Include="Images\chon_nho_7.png" />
+    <Content Include="Images\chon_nho_8.png" />
+    <Content Include="Images\chon_nho_9.png" />
+    <Content Include="Images\doi_cau_hoi_binh_thuongto.png" />
+    <Content Include="Images\doi_cau_hoi_chon_to_1.png" />
+    <Content Include="Images\doi_cau_hoi_da_dung_to2.png" />
+    <Content Include="Images\dongho1.png" />
+    <Content Include="Images\dongho2.png" />
+    <Content Include="Images\dongho3.png" />
+    <Content Include="Images\dongho4.png" />
+    <Content Include="Images\dongho5.png" />
+    <Content Include="Images\dongho6.png" />
+    <Content Include="Images\dong_ho_to_1.png" />
+    <Content Include="Images\dong_ho_to_2.png" />
+    <Content Include="Images\dong_ho_to_3.png" />
+    <Content Include="Images\dong_ho_to_4.png" />
+    <Content Include="Images\dong_ho_to_5.png" />
+    <Content Include="Images\dong_ho_to_6.png" />
+    <Content Include="Images\gioithieuchon.png" />
+    <Content Include="Images\gioithieuchonto.png" />
+    <Content Include="Images\gioithieuchuachon.png" />
+    <Content Include="Images\gioithieuchuachonto.png" />
+    <Content Include="Images\gioithieugame.png" />
+    <Content Include="Images\goidien2.png" />
+    <Content Include="Images\goidien3.png" />
+    <Content Include="Images\goi_dien_bt_to.png" />
+    <Content Include="Images\goi_dien_chon_to_1.png" />
+    <Content Include="Images\goi_dien_da_dung_to_2.png" />
+    <Content Include="Images\group2.png" />
+    <Content Include="Images\help_1.png" />
+    <Content Include="Images\help_11.png" />
+    <Content Include="Images\help_2.png" />
+    <Content Include="Images\help_22.png" />
+    <Content Include="Images\help_3.png" />
+    <Content Include="Images\help_33.png" />
+    <Content Include="Images\help_4.png" />
+    <Content Include="Images\help_44.png" />
+    <Content Include="Images\help_5.png" />
+    <Content Include="Images\help_55.png" />
+    <Content Include="Images\help_6.png" />
+    <Content Include="Images\help_66.png" />
+    <Content Include="Images\hoikhangianho.png" />
+    <Content Include="Images\hoikhangianho2.png" />
+    <Content Include="Images\hoikhangianho3.png" />
+    <Content Include="Images\hoi_y_kien_bt_to.png" />
+    <Content Include="Images\hoi_y_kien_chon_chon_to1.png" />
+    <Content Include="Images\hoi_y_kien_da_dung_to_2.png" />
+    <Content Include="Images\icon.png" />
+    <Content Include="Images\ic_launcher.png" />
+    <Content Include="Images\line.png" />
+    <Content Include="Images\logo1.png" />
+    <Content Include="Images\logo2.png" />
+    <Content Include="Images\logo3.png" />
+    <Content Include="Images\logo4.png" />
+    <Content Include="Images\logoto1.png" />
+    <Content Include="Images\logoto2.png" />
+    <Content Include="Images\logoto3.png" />
+    <Content Include="Images\logoto4.png" />
+    <Content Include="Images\moc_1.png" />
+    <Content Include="Images\moc_10.png" />
+    <Content Include="Images\moc_10_nho.png" />
+    <Content Include="Images\moc_10_to.png" />
+    <Content Include="Images\moc_11.png" />
+    <Content Include="Images\moc_11_nho.png" />
+    <Content Include="Images\moc_11_to.png" />
+    <Content Include="Images\moc_12.png" />
+    <Content Include="Images\moc_12_nho.png" />
+    <Content Include="Images\moc_12_to.png" />
+    <Content Include="Images\moc_13.png" />
+    <Content Include="Images\moc_13_nho.png" />
+    <Content Include="Images\moc_13_to.png" />
+    <Content Include="Images\moc_14.png" />
+    <Content Include="Images\moc_14_nho.png" />
+    <Content Include="Images\moc_14_to.png" />
+    <Content Include="Images\moc_15.png" />
+    <Content Include="Images\moc_15_nho.png" />
+    <Content Include="Images\moc_15_to.png" />
+    <Content Include="Images\moc_1_nho.png" />
+    <Content Include="Images\moc_1_to.png" />
+    <Content Include="Images\moc_2.png" />
+    <Content Include="Images\moc_2_nho.png" />
+    <Content Include="Images\moc_2_to.png" />
+    <Content Include="Images\moc_3.png" />
+    <Content Include="Images\moc_3_nho.png" />
+    <Content Include="Images\moc_3_to.png" />
+    <Content Include="Images\moc_4.png" />
+    <Content Include="Images\moc_4_nho.png" />
+    <Content Include="Images\moc_4_to.png" />
+    <Content Include="Images\moc_5.png" />
+    <Content Include="Images\moc_5_nho.png" />
+    <Content Include="Images\moc_5_to.png" />
+    <Content Include="Images\moc_6.png" />
+    <Content Include="Images\moc_6_nho.png" />
+    <Content Include="Images\moc_6_to.png" />
+    <Content Include="Images\moc_7.png" />
+    <Content Include="Images\moc_7_nho.png" />
+    <Content Include="Images\moc_7_to.png" />
+    <Content Include="Images\moc_8.png" />
+    <Content Include="Images\moc_8_nho.png" />
+    <Content Include="Images\moc_8_to.png" />
+    <Content Include="Images\moc_9.png" />
+    <Content Include="Images\moc_9_nho.png" />
+    <Content Include="Images\moc_9_to.png" />
+    <Content Include="Images\nut_tat.png" />
+    <Content Include="Images\ochon.png" />
+    <Content Include="Images\phone.png" />
+    <Content Include="Images\phone1.png" />
+    <Content Include="Images\phone2.png" />
+    <Content Include="Images\phone3.png" />
+    <Content Include="Images\phone4.png" />
+    <Content Include="Images\phone5.png" />
+    <Content Include="Images\phone6.png" />
+    <Content Include="Images\phoneto.png" />
+    <Content Include="Images\play_a_bg_r1.png" />
+    <Content Include="Images\play_a_bg_r2.png" />
+    <Content Include="Images\play_q_bg.png" />
+    <Content Include="Images\quaylai.png" />
+    <Content Include="Images\quaylai2.png" />
+    <Content Include="Images\quaylai3.png" />
+    <Content Include="Images\shape20.png" />
+    <Content Include="Images\shape30.png" />
+    <Content Include="Images\thoatchon.png" />
+    <Content Include="Images\thoatchonto.png" />
+    <Content Include="Images\thoatchuachon.png" />
+    <Content Include="Images\thoatchuachonto.png" />
+    <Content Include="Images\traloi.png" />
+    <Content Include="Images\traloi2.png" />
+    <Content Include="Images\unghochon.png" />
+    <Content Include="Images\unghochonto.png" />
+    <Content Include="Images\unghochuachon.png" />
+    <Content Include="Images\unghochuachonto.png" />
+    <Content Include="Sounds\ab.mp3" />
+    <Content Include="Sounds\ac.mp3" />
+    <Content Include="Sounds\ad.mp3" />
+    <Content Include="Answer\ans_a.mp3" />
+    <Content Include="Answer\ans_b.mp3" />
+    <Content Include="Answer\ans_c.mp3" />
+    <Content Include="Answer\ans_d.mp3" />
+    <Content Include="Sounds\ans_now1.mp3" />
+    <Content Include="Sounds\ans_now2.mp3" />
+    <Content Include="Sounds\audience.mp3" />
+    <Content Include="Sounds\batdauchoi.mp3" />
+    <Content Include="Sounds\bd.mp3" />
+    <Content Include="Sounds\call.mp3" />
+    <Content Include="Sounds\caudungc.mp3" />
+    <Content Include="Sounds\cautraloidung2.mp3" />
+    <Content Include="Sounds\cb.mp3" />
+    <Content Include="Sounds\cd.mp3" />
+    <Content Include="Sounds\cheer.mp3" />
+    <Content Include="Sounds\closing.mp3" />
+    <Content Include="Sounds\demthoigian.mp3" />
+    <Content Include="Sounds\duaraketqua.mp3" />
+    <Content Include="Sounds\duaraketqua2.mp3" />
+    <Content Include="Sounds\duaraketquaa3.mp3" />
+    <Content Include="Sounds\duaraketquaa4.mp3" />
+    <Content Include="Sounds\duaraketquaa5.mp3" />
+    <Content Include="Sounds\dungcau9.mp3" />
+    <Content Include="Sounds\dungcuocchoi.mp3" />
+    <Content Include="Sounds\d_0.mp3" />
+    <Content Include="Sounds\d_1.mp3" />
+    <Content Include="Sounds\d_2.mp3" />
+    <Content Include="Sounds\d_3.mp3" />
+    <Content Include="Sounds\d_4.mp3" />
+    <Content Include="Sounds\d_5.mp3" />
+    <Content Include="Sounds\d_6.mp3" />
+    <Content Include="Sounds\goobyte.mp3" />
+    <Content Include="Sounds\hetcau10.mp3" />
+    <Content Include="Sounds\hetcau14.mp3" />
+    <Content Include="Sounds\hetcau9.mp3" />
+    <Content Include="Sounds\hetcau9_2.mp3" />
+    <Content Include="Sounds\het_moc_5_2.mp3" />
+    <Content Include="Sounds\important.mp3" />
+    <Content Include="Sounds\ketthuc.mp3" />
+    <Content Include="Sounds\landau15cau.mp3" />
+    <Content Include="Sounds\loichao.mp3" />
+    <Content Include="Sounds\lose.mp3" />
+    <Content Include="Sounds\lose_a.mp3" />
+    <Content Include="Sounds\lose_b.mp3" />
+    <Content Include="Sounds\lose_c.mp3" />
+    <Content Include="Sounds\lose_d.mp3" />
+    <Content Include="Sounds\moc2.mp3" />
+    <Content Include="Sounds\moc3.mp3" />
+    <Content Include="Sounds\nhacnen_1.mp3" />
+    <Content Include="Sounds\nhac_nen_2.mp3" />
+    <Content Include="Sounds\out_of_time.mp3" />
+    <Content Include="Sounds\ping.mp3" />
+    <Content Include="Sounds\ques01.mp3" />
+    <Content Include="Sounds\ques02.mp3" />
+    <Content Include="Sounds\ques03.mp3" />
+    <Content Include="Sounds\ques04.mp3" />
+    <Content Include="Sounds\ques05.mp3" />
+    <Content Include="Sounds\ques06.mp3" />
+    <Content Include="Sounds\ques07.mp3" />
+    <Content Include="Sounds\ques08.mp3" />
+    <Content Include="Sounds\ques09.mp3" />
+    <Content Include="Sounds\ques10.mp3" />
+    <Content Include="Sounds\ques11.mp3" />
+    <Content Include="Sounds\ques12.mp3" />
+    <Content Include="Sounds\ques13.mp3" />
+    <Content Include="Sounds\ques14.mp3" />
+    <Content Include="Sounds\ques15.mp3" />
+    <Content Include="Sounds\sound5050.mp3" />
+    <Content Include="Sounds\start_1.mp3" />
+    <Content Include="Sounds\start_2.mp3" />
+    <Content Include="Sounds\thua.mp3" />
+    <Content Include="Sounds\traloidung1.mp3" />
+    <Content Include="Sounds\traloidungnhanh_1.mp3" />
+    <Content Include="Sounds\traloidungnhanh_2.mp3" />
+    <Content Include="Sounds\traloisai.mp3" />
+    <Content Include="Sounds\true_a.mp3" />
+    <Content Include="Sounds\true_b.mp3" />
+    <Content Include="Sounds\true_c.mp3" />
+    <Content Include="Sounds\true_d.mp3" />
+    <Content Include="Sounds\win.mp3" />
+    <Content Include="Sounds\xinchucmungcau15.mp3" />
+    <Content Include="SplashScreenImage.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.$(TargetFrameworkProfile).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions />
+</Project>

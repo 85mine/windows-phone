@@ -1,0 +1,76 @@
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Assets\AppBar\feature.alarm.png
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Assets\AppBar\feature.settings.png
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Assets\AppBar\microphone.png
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Assets\AppBar\questionmark.png
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Assets\start.png
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\nocover.png
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Assets\Rating.png
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Assets\timer.png
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Assets\AppBar\Board Pin.png
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\cut.mp3
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\cut.png
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Assets\Close.png
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Assets\ok.png
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\STOP Music Pro.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\STOP Music Pro.pdb
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\AppManifest.xaml
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\STOP_Music_Pro_Release_AnyCPU.xap
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Telerik.Windows.Behaviors.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Telerik.Windows.Controls.Input.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Telerik.Windows.Controls.Primitives.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Telerik.Windows.Core.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Telerik.Windows.Data.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Telerik.Windows.Behaviors.pdb
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Telerik.Windows.Behaviors.xml
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Telerik.Windows.Controls.Input.pdb
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Telerik.Windows.Controls.Input.xml
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Telerik.Windows.Controls.Primitives.pdb
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Telerik.Windows.Controls.Primitives.xml
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Telerik.Windows.Core.pdb
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Telerik.Windows.Core.xml
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Telerik.Windows.Data.pdb
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Telerik.Windows.Data.xml
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\win8TimePicker.pdb
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\de-DE\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\fr-FR\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\it-IT\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\ru\System.Windows.Interactivity.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\obj\Release\App.g.cs
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\obj\Release\MainPage.g.cs
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\obj\Release\Page1.g.cs
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\obj\Release\Settings.g.cs
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\obj\Release\STOP Music Pro.g.resources
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\obj\Release\STOP_Music_Pro.Resources.AppResources.resources
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\obj\Release\STOP Music Pro.csproj.GenerateResource.Cache
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\obj\Release\STOP Music Pro.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\obj\Release\STOP Music Pro.pdb
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\obj\Release\XapCacheFile.xml
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\obj\Release\quicksetcontrol.g.cs
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\pintimer.png
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\obj\Release\autotimer.g.cs
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\Bin\Release\Assets\AppBar\home.png
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\obj\Release\STOP Music Pro.csprojResolveAssemblyReference.cache
+C:\Users\anh_p_000\Dropbox\B-Gate\STOP Music Pro\STOP Music Pro\obj\Release\Page2.g.cs

@@ -1,0 +1,22 @@
+﻿<Application 
+    x:Class="Ai_La_Trieu_Phu.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"       
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone">
+
+    <!--Application Resources-->
+    <Application.Resources>
+        <ImageBrush x:Key="MainPage" ImageSource="Images/background.png" Opacity="1"  Stretch="UniformToFill"></ImageBrush>
+        <ImageBrush x:Key="PlayPage" ImageSource="Images/backgroundto.png" Opacity="1" Stretch="UniformToFill"></ImageBrush>
+        <ImageBrush x:Key="Diemcao" ImageSource="Images/backgroundto.png" Opacity="0.5" Stretch="UniformToFill"></ImageBrush>
+    </Application.Resources>
+
+    <Application.ApplicationLifetimeObjects>
+        <!--Required object that handles lifetime events for the application-->
+        <shell:PhoneApplicationService 
+            Launching="Application_Launching" Closing="Application_Closing" 
+            Activated="Application_Activated" Deactivated="Application_Deactivated"/>
+    </Application.ApplicationLifetimeObjects>
+
+</Application>

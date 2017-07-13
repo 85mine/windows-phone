@@ -1,0 +1,48 @@
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\Assets\AppBar\favs.png
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\Gentleman ringtones.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\Gentleman ringtones.pdb
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\AppManifest.xaml
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\Gentleman_ringtones_Release_AnyCPU.xap
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\Telerik.Windows.Controls.Input.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\Telerik.Windows.Controls.Primitives.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\Telerik.Windows.Core.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\Telerik.Windows.Controls.Input.pdb
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\Telerik.Windows.Controls.Input.xml
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\Telerik.Windows.Controls.Primitives.pdb
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\Telerik.Windows.Controls.Primitives.xml
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\Telerik.Windows.Core.pdb
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\Telerik.Windows.Core.xml
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\de-DE\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\fr-FR\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\it-IT\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\ru\System.Windows.Interactivity.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\obj\Release\App.g.cs
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\obj\Release\MainPage.g.cs
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\obj\Release\Gentleman ringtones.g.resources
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\obj\Release\Gentleman_ringtones.Resources.AppResources.resources
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\obj\Release\Gentleman ringtones.csproj.GenerateResource.Cache
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\obj\Release\Gentleman ringtones.dll
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\obj\Release\Gentleman ringtones.pdb
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\obj\Release\XapCacheFile.xml
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\obj\Release\Page1.g.cs
+C:\Users\anh_p_000\Dropbox\B-Gate\Gentleman ringtones\2.Hello vietnam\Gentleman ringtones\obj\Release\Controls\FeedbackOverlay.g.cs
